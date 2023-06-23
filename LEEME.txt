@@ -1,0 +1,15 @@
+Para poder hacer funcionar el programa, desde app.js, deberás escribir en la terminal el comando de abajo
+
+npm start
+
+sino funciona probablemente necesitas unas de las siguientes librarías instaladas:
+
+fs
+express
+path
+
+O necesitas unas de las apliaciones
+
+Nodemon
+NodeJS
+Npm
